@@ -10,7 +10,7 @@ Este proyecto contiene pruebas automatizadas para el sitio web de Amazon utiliza
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/kevinjhoshin/Technical-Challenge.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
